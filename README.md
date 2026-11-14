@@ -18,7 +18,7 @@ nos **dois discos**.
 > de cada personagem. **Na v1.3, todo o texto (falas, itens, habilidades, Dicionário e menus) foi revisado de novo
 > comparando com o japonês da versão Director's Cut**: gênero e tratamento dos personagens, nomes com sentido duplo
 > no inglês e palavras que tinham tradução direta. *Atualizada em 09/11/2026: "Energy Burst" agora é "Surto de Energia"
-> e o talento "Compounding" agora é "Manipulação", como no Star Ocean 5.* Testado no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
+> e o talento "Compounding" agora é "Manipulação", como no Star Ocean 5. Atualização de 14/11/2026: nomes de lugar da Nomes Originais corrigidos; ortografia: 'atinjam'.* Testado no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
@@ -40,10 +40,10 @@ discos), o guia `LEIA-ME.txt`, os códigos para conferência e os termos de uso.
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
-| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `43b61b37d5cecad19d5e2c7995a05e4d5aa3aaa3dc568bddb4d186061aa06092` |
-| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `5c2fdb561ee3bd3f70d0be2037bf73380919c397a9cc766971a6fb79bac59d58` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `7fca59d5dc0e7e4fbd494f0a9cbcc6f04151e8588be92cd2a7c9677b55ecf430` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `9f07751e5456b424a84a230a7ebe9260f089e1afa68cacf285bb5214c378c675` |
+| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `b14af2457ff2d9a9558ead458dcc5394f38d487e9bee5ed9abd99dcae39e708b` |
+| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `63ccc2956d97a36a3a3aee52a3baa3bd12b9172e666dfb8a6a1798248be0a6a9` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `19675c5d5bc09cd8d6d77adb1dba06a1503fe6139bc533dd9f78f0a330979209` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `ebd7789601dd656221ca0485b8a52699a2193a633f4717ce6eabc2c9ae9bdd87` |
 
 Como aplicar: veja **Instalação**, mais abaixo.
 
@@ -149,10 +149,10 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
 
    | Versão | Disco | Tamanho (bytes) | CRC32 | SHA-1 |
    |---|---|---|---|---|
-   | Nomes Traduzidos | 1 | 4658429952 | `e6da249e` | `7c2282b9a8daf7e75abe98b97a10a50e89c2b999` |
-   | Nomes Traduzidos | 2 | 4658692096 | `3a80e674` | `e7ac12e46c35ca5789733c010d3310c3ef8dd68b` |
-   | Nomes Originais | 1 | 4658429952 | `4c6c2199` | `08178ad6f20abea799de551d5fb75dfe1a29161e` |
-   | Nomes Originais | 2 | 4658692096 | `2848883e` | `a4fccb1ae0641597599fc977c236f88fe00945e6` |
+   | Nomes Traduzidos | 1 | 4658429952 | `f82645f3` | `a4e28c534eb8b3b84df8e735a39034ce07ec22b2` |
+   | Nomes Traduzidos | 2 | 4658692096 | `64fdc511` | `1007779df88469ac763121fef4ce517aa9091193` |
+   | Nomes Originais | 1 | 4658429952 | `08906815` | `d85ce6233640036412a38f57a627b02983287195` |
+   | Nomes Originais | 2 | 4658692096 | `3a0295b4` | `36dead253d05cb05b2f8805849f2a82c192891f6` |
 
 6. Abra a ISO traduzida no PCSX2. Saves do jogo em inglês funcionam normalmente, nas duas versões.
 
