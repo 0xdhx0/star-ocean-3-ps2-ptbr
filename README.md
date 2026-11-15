@@ -14,11 +14,7 @@ nos **dois discos**.
 *Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix ou a tri-Ace
 (veja o aviso legal no fim desta página).*
 
-> ✅ Os dois discos estão traduzidos, e todos os diálogos foram revisados com o contexto da história e o jeito de falar
-> de cada personagem. **Na v1.3, todo o texto (falas, itens, habilidades, Dicionário e menus) foi revisado de novo
-> comparando com o japonês da versão Director's Cut**: gênero e tratamento dos personagens, nomes com sentido duplo
-> no inglês e palavras que tinham tradução direta. *Atualizada em 09/11/2026: "Energy Burst" agora é "Surto de Energia"
-> e o talento "Compounding" agora é "Manipulação", como no Star Ocean 5. Atualização de 14/11/2026: nomes de lugar da Nomes Originais corrigidos; ortografia: 'atinjam'.* Testado no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
+> ✅ Os dois discos estão traduzidos e foram testados no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
