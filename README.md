@@ -1,20 +1,21 @@
 ![Star Ocean: Till the End of Time — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Till the End of Time — Tradução PT-BR v1.3
+# 🌌 Star Ocean: Till the End of Time (PS2) — Tradução PT-BR
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
-![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%202%20(PCSX2)-003791)
+![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%202-003791)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-USA%20(NTSC--U)-555)
-![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-3-ps2-ptbr?label=patch)
+![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-3-ps2-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
-Tradução de fã do **Star Ocean: Till the End of Time** (PlayStation 2, versão americana) para o **português do Brasil**,
-nos **dois discos**.
+Tradução de fã do **Star Ocean: Till the End of Time** (PlayStation 2, versão americana), nos **dois discos**.
+**Tradução completa para o português do Brasil**, com menus, história, diálogos, golpes, magias (Simbologia), itens,
+monstros, lugares, Dicionário e imagens com texto em português.
 
 *Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix ou a tri-Ace
 (veja o aviso legal no fim desta página).*
 
-> ✅ Os dois discos estão traduzidos e foram testados no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
+> ✅ O jogo inteiro está traduzido, nos dois discos. Se achar algum problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
@@ -27,67 +28,17 @@ nos **dois discos**.
 | ![Golpe especial na batalha](imagens/fotos/05_golpe.jpg) | ![Resultados da batalha](imagens/fotos/06_resultados.jpg) |
 | Golpe especial na batalha | Resultados da batalha |
 
-*Fotos da versão Nomes Traduzidos, no emulador PCSX2.*
+## 📥 Download
 
-## 📥 Download (v1.3)
-
-**[⬇️ Baixar `SO3_PTBR_v1.3.zip`](../../releases/latest)**: as **duas versões** da tradução (patches xdelta dos dois
-discos), o guia `LEIA-ME.txt`, os códigos para conferência e os termos de uso.
-
-| Dentro do zip | Para | SHA-256 |
-|---|---|---|
-| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `b14af2457ff2d9a9558ead458dcc5394f38d487e9bee5ed9abd99dcae39e708b` |
-| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `63ccc2956d97a36a3a3aee52a3baa3bd12b9172e666dfb8a6a1798248be0a6a9` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `19675c5d5bc09cd8d6d77adb1dba06a1503fe6139bc533dd9f78f0a330979209` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `ebd7789601dd656221ca0485b8a52699a2193a633f4717ce6eabc2c9ae9bdd87` |
-
-Como aplicar: veja **Instalação**, mais abaixo.
-
-## 🎭 Duas versões: escolha a sua
-
-| | **Nomes Traduzidos** | **Nomes Originais** |
-|---|---|---|
-| Menus e telas | Português | Português |
-| História, diálogos e mensagens | Português | Português |
-| Descrições (itens, habilidades, magias, Dicionário) | Português | Português |
-| Piadas e trocadilhos dentro das falas | Recriados em português | Recriados em português |
-| Habilidades e golpes | Português (*Queda Estelar, Golpe de Investida*) | Originais (*Star Fall, Charge Strike*) |
-| Magias (Simbologia) | Português (*Rajada de Fogo, Agulhas de Gelo*) | Originais (*Fire Bolt, Ice Needles*) |
-| Itens | Português (*Pedra Filosofal, Scanner Quádruplo*) | Originais (*Philosopher's Stone, Quad Scanner*) |
-| Armas e equipamentos | Português (*Espada Malfeita, Malha de Mitril*) | Originais (*Botched Sword, Mythril Mesh*) |
-| Monstros e duplas da Arena | Português (*Cocatriz, Vox Poderoso, Rainha Etérea, Dupla Vilã*) | Originais (*Cockatrice, Mighty Vox, Ethereal Queen, Villain Pair*) |
-| Troféus de batalha | Português | Frase em português, nomes originais (*"Vença só com Charge"*, *"Derrote o Giant Crab em 1min"*) |
-| Lugares (mapas e cidades), inclusive os de nome comum | Português (*Castelo Aquaria, Base Lunar, Sala de Transporte*) | Originais (*Castle Aquaria, Moonbase, Transporter Room*) |
-| Lojas e seus donos, e lugares só citados | Português (*Batata Jack, Cortina de Ferro, Estrada do Dragão*) | Português (iguais) |
-| Regiões que não são mapa (reinos, impérios, continentes, setores, sistemas) | Português (*Reino de Airyglyph, Setor Teta, Sistema Solar*) | Português (iguais) |
-| Nomes que são trocadilho (Batalhicóptero, Fuliginho, Bicolor, Tempestade) | Português | Originais (*Battlecopter, Sootie, Oddeye, Tempest*) |
-| Nome próprio com forma em português | Português (*Aldiano, Ronaldo Dyne*) | Originais (*Aldian, Ronald Dyne*) |
-| Nomes próprios (Fayt, Elicoor II, Airyglyph, Diplo…) | Iguais | Iguais |
-| Organizações (Brigada Negra, Federação Pangaláctica, Igreja de Apris) | Português | Português (iguais) |
-| Termos do mundo (Esfera Eterna, Portal do Tempo, runologia) | Português | Português (iguais) |
-| Títulos com nome (o título se traduz, o nome não) | Português (*Rei Airyglyph, Senhora Clair, Conde Woltar*) | Português (iguais) |
-| Títulos dos verbetes do Dicionário | Português | Português (iguais) |
-| Raças de palavra comum (Humano, Povo-Fera, Montanhês) e tipos de nave | Português | Português (iguais) |
-| Raças com nome inventado (Vendeeni, Greem, Menodix) | Iguais | Iguais |
-| Siglas de status | **PV, PM**, Nv, Próx., ATQ, PC, PH | **HP, MP** (combinam com o HUD original), Nv, Próx., ATQ, PC, PH |
-| Imagens com texto (título, configurações, HUD da batalha, Oficina, Fim de Jogo) | Traduzidas | Originais (inglês) |
-
-- **Nomes Traduzidos:** o jogo todo em português. Só os nomes próprios ficam como no original, mas o título que vem
-  com eles se traduz ("King Airyglyph" = "Rei Airyglyph").
-- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
-  procura num guia: os nomes de **cidades e mapas, itens, equipamentos, habilidades, magias e monstros** (e os
-  trocadilhos dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
-  descrições, Dicionário, lojas, organizações, termos do mundo e títulos com nome. A frase em volta segue em português
-  ("Fayt aprende Star Fall!", "a Brigada Negra ataca Arias", "o Rei Airyglyph espera no Airyglyph Castle").
-
-As duas usam as mesmas ISOs originais e o mesmo cartão de memória: dá para trocar de versão a qualquer momento.
+**[⬇️ Baixar a tradução](../../releases/latest)** (página da versão mais recente). Dentro do zip vêm os patches xdelta dos
+dois discos e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** abaixo.
 
 ## 🎮 O que foi traduzido
 
 | Parte | Disco 1 | Disco 2 | Cobertura |
 |---|---|---|---|
 | Diálogos e cenas (falas) | 42.676 | 40.893 | 100% |
-| Menus, itens, habilidades, criação, Dicionário, sistema | 27.693 | 27.760 | 100% |
+| Menus, itens, habilidades, criação, Dicionário, Modo Batalha, sistema | 27.778 | 27.845 | 100% |
 | Imagens com texto (título, configurações, batalha, Oficina, avisos) | 17 texturas | as mesmas | 100% das encontradas |
 
 *As contagens incluem textos repetidos em vários lugares do jogo. Em textos diferentes, são cerca de 22 mil por disco.*
@@ -103,6 +54,15 @@ As duas usam as mesmas ISOs originais e o mesmo cartão de memória: dá para tr
 - **Textos desenhados em letras do próprio jogo** refeitos no mesmo estilo: rótulos de menu (Nv, PV, PM, ATQ…), os sete
   Livros Antigos, o fim de partida do tabuleiro das Ruínas de Mosel e o terminal da Blair.
 
+### Alguns exemplos
+
+- **Interface:** PV/PM no lugar de HP/MP, Nv, Próx., ATQ, PC e PH.
+- **Golpes e magias:** *Star Fall → Queda Estelar · Fire Bolt → Rajada de Fogo · Ice Needles → Agulhas de Gelo*.
+- **Itens:** *Philosopher's Stone → Pedra Filosofal · Quad Scanner → Escâner Quádruplo · Mythril Mesh → Malha de Mitril*.
+- **Monstros e nomes-trocadilho:** *Cockatrice → Cocatriz · Battlecopter → Batalhicóptero · Sootie → Fuliginho*.
+- **Lugares:** os nomes próprios ficam (Peterny, Airyglyph, Arkives); o resto vai para o português
+  (*Castle Aquaria → Castelo Aquaria · Moonbase → Base Lunar · Kirlsa Training Facility → Centro de Treino de Kirlsa*).
+
 ## 🚫 O que não foi traduzido (de propósito)
 
 | O quê | Por quê |
@@ -110,13 +70,14 @@ As duas usam as mesmas ISOs originais e o mesmo cartão de memória: dá para tr
 | Nomes de personagens (Fayt, Sophia, Cliff, Albel…) | São nomes próprios, iguais em todas as versões do jogo. |
 | Nomes de naves e planetas (Diplo, Eagle, Elicoor II, Vanguard III…) | Nomes próprios. As naves aparecem no feminino ("a Diplo"). |
 | Raças inventadas (Vendeeni, Greem, Menodix…) | Não existem em português. Raças descritivas foram traduzidas (Povo-Fera, Montanhês…). |
+| Créditos finais (cargos e nomes da equipe) | Ficam como no original. |
+| Vídeos (FMV) | O texto está gravado no vídeo. |
 | Vozes e dublagem | Ficam as vozes originais em inglês. |
-| Vídeos (FMV) e créditos finais | Vídeos pré-renderizados. |
 | "Dolby Pro Logic II", logotipos e copyright | Marcas registradas. |
 | Escrita alienígena e rótulos decorativos dos cenários | Fazem parte da arte do jogo. |
 
-**Ainda falta (não é de propósito):** algumas placas desenhadas nos cenários e a lista de arenas do Modo Batalha
-(versus). Se encontrar outra coisa em inglês, abra uma issue.
+**Ainda falta (não é de propósito):** algumas placas desenhadas nos cenários. Se encontrar outra coisa em inglês, abra
+uma issue.
 
 ## 💿 O que você precisa
 
@@ -129,53 +90,43 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
 
 ## 💾 Instalação
 
-1. Baixe o `SO3_PTBR_v1.3.zip` na página de [Releases](../../releases) e descompacte.
-2. Escolha **uma** versão: a pasta `NomesTraduzidos` ou a pasta `NomesOriginais`.
-3. **Faça uma cópia** das suas ISOs originais.
-4. Aplique o patch de cada disco da versão escolhida:
+1. Baixe o zip na página de [Releases](../../releases) e descompacte.
+2. **Faça uma cópia** das suas ISOs originais.
+3. Aplique o patch de cada disco:
    - **🪟 Windows:** abra o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher). Em *Original file*,
      escolha a **cópia** da ISO; em *XDelta patch*, o `.xdelta` do mesmo disco. Depois clique em *Apply patch*.
      O Delta Patcher grava o resultado **por cima** do arquivo escolhido, por isso use a cópia.
-   - **🐧 Linux/macOS** (exemplo com Nomes Traduzidos):
+   - **🐧 Linux/macOS:**
      ```
-     xdelta3 -d -s "Star Ocean - Till the End of Time (USA) (Disc 1).iso" NomesTraduzidos/SO3_PTBR_Disco1.xdelta SO3_PTBR_Disco1.iso
-     xdelta3 -d -s "Star Ocean - Till the End of Time (USA) (Disc 2).iso" NomesTraduzidos/SO3_PTBR_Disco2.xdelta SO3_PTBR_Disco2.iso
+     xdelta3 -d -s "Star Ocean - Till the End of Time (USA) (Disc 1).iso" SO3_PTBR_Disco1.xdelta SO3_PTBR_Disco1.iso
+     xdelta3 -d -s "Star Ocean - Till the End of Time (USA) (Disc 2).iso" SO3_PTBR_Disco2.xdelta SO3_PTBR_Disco2.iso
      ```
-5. (Opcional) Confira a ISO traduzida:
+4. (Opcional) Confira a ISO traduzida com os códigos do `LEIA-ME.txt`.
+5. Abra a ISO traduzida no emulador (PCSX2, por exemplo) ou no console. Saves do jogo em inglês funcionam normalmente.
 
-   | Versão | Disco | Tamanho (bytes) | CRC32 | SHA-1 |
-   |---|---|---|---|---|
-   | Nomes Traduzidos | 1 | 4658429952 | `f82645f3` | `a4e28c534eb8b3b84df8e735a39034ce07ec22b2` |
-   | Nomes Traduzidos | 2 | 4658692096 | `64fdc511` | `1007779df88469ac763121fef4ce517aa9091193` |
-   | Nomes Originais | 1 | 4658429952 | `08906815` | `d85ce6233640036412a38f57a627b02983287195` |
-   | Nomes Originais | 2 | 4658692096 | `3a0295b4` | `36dead253d05cb05b2f8805849f2a82c192891f6` |
+**Para atualizar** a partir de uma versão anterior, aplique o patch novo numa nova cópia das ISOs **originais** (o patch é
+sempre aplicado na ISO original, nunca numa ISO já traduzida). **Para voltar ao inglês**, use a ISO original.
 
-6. Abra a ISO traduzida no PCSX2. Saves do jogo em inglês funcionam normalmente, nas duas versões.
-
-**Para trocar de versão**, aplique o patch da outra versão numa nova cópia das ISOs originais (o patch é sempre aplicado
-na ISO original, nunca numa ISO já traduzida).
-
-## 🔒 Segurança e verificação
+## 🔒 Segurança
 
 - Baixe os patches **só pela página de [Releases](../../releases) deste repositório**.
-- Confira o SHA-256 do `.xdelta` com a tabela de Download (ou use o `SHA256SUMS.txt` do pacote):
-  - Windows: `certutil -hashfile SO3_PTBR_Disco1.xdelta SHA256`
-  - Linux/macOS: `sha256sum -c SHA256SUMS.txt`
-- Faça backup do seu cartão de memória (`Mcd001.ps2`, na pasta `memcards` do PCSX2) antes de jogar.
+- Confira os patches com o `SHA256SUMS.txt` do pacote (Windows: `certutil -hashfile SO3_PTBR_Disco1.xdelta SHA256`;
+  Linux/macOS: `sha256sum -c SHA256SUMS.txt`).
+- Faça backup do seu cartão de memória antes de jogar (no PCSX2, o `Mcd001.ps2` da pasta `memcards`).
 
 ## ❓ Não funcionou?
 
 | Sintoma | Causa provável |
 |---|---|
 | O Delta Patcher dá erro de checksum ou "source file" | A ISO não é a americana original 1:1 (ou já foi traduzida antes). Confira o CRC32/SHA-1 da tabela acima. |
-| Textos misturados (parte em inglês, parte em português) depois de atualizar ou trocar de versão | Você carregou um *save state* de outra versão. Reinicie o jogo e continue pelo save do cartão de memória. |
-| O disco 2 não é aceito na troca de disco | Aplique o patch do disco 2 na ISO do **disco 2**, da mesma versão usada no disco 1. |
+| Textos misturados (parte em inglês, parte em português) depois de atualizar | Você carregou um *save state* feito com a versão anterior. Reinicie o jogo e continue pelo save do cartão de memória. |
+| O disco 2 não é aceito na troca de disco | Aplique o patch do disco 2 na ISO do **disco 2**, da mesma versão do patch usada no disco 1. |
 | Tela preta ou travamento | Abra uma issue informando onde aconteceu. |
 
 ## 🐞 Achou um erro?
 
-Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão (Nomes Traduzidos ou
-Nomes Originais), o disco, o lugar do jogo e, se puder, mande um print. Toda correção de português também é bem-vinda.
+Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão do patch, o disco, o
+lugar do jogo e, se puder, mande um print. Toda correção de português também é bem-vinda.
 
 ## 🙏 Créditos
 
