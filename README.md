@@ -17,7 +17,7 @@ monstros, lugares, Dicionário e imagens com texto em português.
 
 > ✅ O jogo inteiro está traduzido, nos dois discos. Se achar algum problema, abra uma [issue](../../issues).
 
-## 📸 Fotos
+## 🖼️ Imagens
 
 | | |
 |---|---|
