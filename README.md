@@ -133,7 +133,8 @@ lugar do jogo e, se puder, mande um print. Toda correção de português também
 - **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
 - **Engenharia reversa do formato do disco:** baseada no
   [Star-Ocean-3-ps2-research-toolkit](https://github.com/Starocean101/Star-Ocean-3-ps2-research-toolkit).
-- **Fontes livres (licença OFL)** usadas nas imagens: Arimo, Russo One, Tinos, Cinzel, Orbitron, M PLUS 1p.
+- **Fontes livres (licença OFL)** usadas nas imagens: Arimo, Anton, Chakra Petch, Cinzel, Crimson Text, Exo 2, M PLUS 1p, Orbitron, Quicksand, Rubik,
+  Russo One, Saira e Tinos.
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todos os diálogos foram revisados com o contexto da história e o
 jeito de falar de cada personagem, conferidos pixel a pixel para caber nas caixas e testados no PCSX2. Se achar uma
